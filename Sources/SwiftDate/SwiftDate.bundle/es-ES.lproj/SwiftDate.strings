@@ -19,25 +19,25 @@
 "colloquial_p_d"					=	"ayer";		// day,past,singular:		"yesterday"
 "colloquial_p_dd"					=	"hace %d días";		// day,past,plural:			"3 days ago"
 
-"colloquial_f_h"					=	"en una hora";		// hour,future,singular:	"in one hour"
-"colloquial_f_hh"					=	"en %ld horas";		// hour,future,plural:		"in 3 hours"
-"colloquial_p_h"					=	"hace una hora";		// hour,past,singular:		"one hour ago"
-"colloquial_p_hh"					=	"hace %d horas";		// hour,past,plural:		"3 hours ago"
+"colloquial_f_h"					=	"en 1h";		// hour,future,singular:	"in one hour"
+"colloquial_f_hh"					=	"en %ldh";		// hour,future,plural:		"in 3 hours"
+"colloquial_p_h"					=	"hace 1h";		// hour,past,singular:		"one hour ago"
+"colloquial_p_hh"					=	"hace %dh";		// hour,past,plural:		"3 hours ago"
 
-"colloquial_f_M"					=	"en un minuto";	// minute,future,singular:	"in one minute"
-"colloquial_f_MM"					=	"en %ld minutos";	// minute,future,plural:	"in 3 minutes"
-"colloquial_p_M"					=	"hace un minuto";	// minute,past,singular:	"one minute ago"
-"colloquial_p_MM"					=	"hace %d minutos";	// minute,past,plural:		"3 minutes ago"
+"colloquial_f_M"					=	"en 1m";	// minute,future,singular:	"in one minute"
+"colloquial_f_MM"					=	"en %ldm";	// minute,future,plural:	"in 3 minutes"
+"colloquial_p_M"					=	"hace 1m";	// minute,past,singular:	"one minute ago"
+"colloquial_p_MM"					=	"hace %dm";	// minute,past,plural:		"3 minutes ago"
 
-"colloquial_now"					=	"ahora mismo";			// less than 5 minutes if .allowsNowOnColloquial is set
+"colloquial_now"					=	"ahora";			// less than 5 minutes if .allowsNowOnColloquial is set
 
 "colloquial_n_0y"					=	"este año";			// this year
 "colloquial_n_0m"					=	"este mes";			// this month
 "colloquial_n_0w"					=	"esta semana";		// this week
 "colloquial_n_0d"					=	"hoy";				// this day
-"colloquial_n_0h"					=	"ahora mismo";				// this hour
-"colloquial_n_0M"					=	"ahora mismo";				// this minute
-"colloquial_n_0s"					=	"ahora mismo";				// this second
+"colloquial_n_0h"					=	"ahora";				// this hour
+"colloquial_n_0M"					=	"ahora";				// this minute
+"colloquial_n_0s"					=	"ahora";				// this second
 
 // RELEVANT TIME TO PRINT ALONG COLLOQUIAL STRING WHEN .includeRelevantTime = true
 "relevanttime_y"					=	"MMM yyyy";			// for colloquial year (=+-1) adds a time string like this:"(Feb 2016)"
